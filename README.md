@@ -2,7 +2,7 @@
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO (Criando máquinas virtuais na Azure)
 
 
-### resumo-criando-maquinas-virtuais-na-azure
+### resumo do conteudo das aulas
 
 Neste segundo modulo, aprendemos sobre escalabilidade e elasticidade na nuvem. Escalabilidade é a capacidade de aumentar ou diminuir recursos conforme a demanda, enquanto elasticidade ajusta automaticamente os recursos conforme necessário, otimizando custos e desempenho.
 
